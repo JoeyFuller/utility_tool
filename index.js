@@ -1,6 +1,4 @@
 /* Joey Fuller V1.4.0 */
-module.exports = function {
-
 const chalk = require('chalk');
 const fs = require('fs');
 const stamp = require('log-timestamp'); /* needed for time stamp in debug env */
@@ -30,4 +28,3 @@ exports.debug = (title, obj, status) => {
 };
 
 exports.logger = logger;
-}
