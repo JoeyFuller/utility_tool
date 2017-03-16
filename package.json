@@ -1,0 +1,24 @@
+{
+  "name": "logging",
+  "version": "1.0.0",
+  "description": "utility tool for my API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoeyFuller/utility_tool.git"
+  },
+  "keywords": [
+    "npm",
+    "debug",
+    "tool"
+  ],
+  "author": "Joey Fuller <joeyfuller@fullsail.edu>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoeyFuller/utility_tool/issues"
+  },
+  "homepage": "https://github.com/JoeyFuller/utility_tool#readme"
+}
