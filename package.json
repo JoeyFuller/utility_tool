@@ -1,6 +1,6 @@
 {
-  "name": "logging",
-  "version": "1.0.0",
+  "name": "logging_fuller",
+  "version": "1.0.1",
   "description": "utility tool for my API",
   "main": "index.js",
   "scripts": {
